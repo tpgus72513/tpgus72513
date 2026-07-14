@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cinnamoroll.gif" width="500" alt="Cinnamoroll dancing on a cloud" />
+  <img src="./시나모롤.gif" width="500" alt="시나모롤 GIF" />
 </div>
 
 <br />

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./시나모롤.gif" width="500" alt="시나모롤 GIF" />
+  <img src="./시나모롤.gif" width="600" alt="시나모롤 GIF" />
 </div>
 
 <br />
